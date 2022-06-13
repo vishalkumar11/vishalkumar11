@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @vishalkumar11
+- 👋 Hi, I’m Vishal Kumar Medavarapu
 - 👀 I’m interested in Data science 
-- 🌱 I’m currently learning Data Analytic for business.
+- 🌱 I’m graduated from St Clair college in Data analytics for Business.
 - 💞️ I’m looking to collaborate on Watsapp
-- 📫 How to reach me mail or phone number(+91 7013264228)
+- 📫 How to reach me mail(medavarapuvishalkumar@gmail.com) or phone number(+1 2267243391)
 
 <!---
 vishalkumar11/vishalkumar11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
